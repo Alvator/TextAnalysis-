@@ -1,6 +1,9 @@
 # TextAnalysis-
 
-First comes the scrapping than comes   
+First comes the scrapping   
 Second comes the data preparation
-third  comes data exploriatiom
+third  comes data exploration 
+4th Data Visualisation 
+5th DataExplanation 
+
 ---
