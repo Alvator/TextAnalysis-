@@ -1,4 +1,4 @@
-# TextAnalysis-
+# TextAnalysis- Bible Vs Book of Buddha
 
 First comes the scrapping   
 Second comes the data preparation
